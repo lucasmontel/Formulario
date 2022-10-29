@@ -1,0 +1,45 @@
+input {
+    border-radius: 6px;
+}
+
+
+Sobrenome {
+    display: flex;
+    justify-content: center;
+}
+
+.Altura {
+    display: flex;
+    justify-content: center;
+}
+
+.Peso {
+    display: flex;
+    justify-content: center;
+}
+
+.Nome {
+    display: flex;
+    justify-content: center;
+    background: white;
+}
+
+form{
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 44%;
+    width: 100%;
+    max-width: 185px;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+button{
+border-radius: 55px;
+
+}
+
+body{
+    background: rgb(0, 0, 0);
+}
+
